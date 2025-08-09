@@ -28,9 +28,11 @@ y.fiumefreddo@gmail.com
 
 January 5th, 1971
 
+---
+
 ## Experiences
 
-### 2009 - Present | Senior Software Architect - **EVS Broadcast Company**
+### 2009 - Present | Senior Software Architect - EVS Broadcast Company
 
 Lead architect for software solutions in live broadcast and media production.  
 
@@ -39,50 +41,30 @@ Key achievements:
 - Led migration to modern C++ standards (C++11 → C++20).
 - Mentored development teams on best practices and design patterns.
 
-### 2004-2009
-
-#### R&D Manager
-
-**EVS Broadcast Company**
+### 2004-2009 | R&D Manager - EVS Broadcast Company
 
 - Managed a team of software engineers developing live production tools.
 - Coordinated product strategy between R&D and operations.
 
-### 2001-2004
+### 2001-2004 | Software Engineer - EVS Broadcast Company
 
-#### Software Engineer
+### 1996-2001 | Software Engineer - PharMac
 
-**EVS Broadcast Company**
+### 1996-1996 | Network Engineer - Axis
 
-### 1996-2001
-
-#### Software Engineer
-
-**PharMac**
-
-### 1996-1996
-
-#### Network Engineer
-
-**Axis**
+---
 
 ## Education
+- **Bachelor's Degree in Computer Science** — IN.RE.S (1991 – 1995)
+- **High School Diploma in Sciences** — Institut Saint Laurent (1989 – 1991)
 
-### 1991 - 1995
-
-#### Bachelor's Degree
-
-**IN.RE.S**
-
-### 1989 - 1991
-
-#### High School Diploma
-
-**Institut Saint Laurent**
+---
 
 ## Skills
 
 ### Programming languages
+
+C++ ★★★★★ | C# ★★★★☆ | Objective-C ★★★★☆ | Python ★★★★☆
 
 * C++ modern - very high level
 * C# - high level
@@ -91,21 +73,18 @@ Key achievements:
 
 ### Frameworks
 
-* .Net Framework - very high level
-* Win32 API - very high level
-* gtk / gtkmm - very high level
-* Cocoa - high level
-* Qt - high level
-* wxWidgets - very high level
-* FLTK - very high level
-* Google Test - very high level
+### Frameworks & Libraries
+
+.NET Framework ★★★★★ | Win32 API ★★★★★ | gtk / gtkmm ★★★★★ | Cocoa ★★★★☆ | wxWidgets ★★★★★ | Qt ★★★★☆ | FLTK ★★★★★ | Google Test ★★★★★
 
 ### Languages
 
-* French - mother tongue
-* English - intermediate level
+* French - Native
+* English - intermediate
 
-## See also
+---
+
+## Links
 
 * [website](https://yfiumefreddo.github.io)
 * [About me](https://about.me/yves.fiumefreddo)
