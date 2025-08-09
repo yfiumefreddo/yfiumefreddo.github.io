@@ -1,17 +1,19 @@
 # Yves Fiumefreddo
 
-New Technologies and computer sciences are my passion.
+Passionate about new technologies and computer science.
 
-## Profession
+## Title
 
-SENIOR SOFTWARE ARCHITECT
+Senior Software Architect
 
 ## Phone
 
 +32 477 609120
 ​
 ## Email
+
 y.fiumefreddo@gmail.com 
 ​
 ## Date of Birth
+
 January 5th, 1971
