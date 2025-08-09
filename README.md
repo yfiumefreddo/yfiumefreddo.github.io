@@ -107,6 +107,7 @@ Key achievements:
 
 - [Website](https://yfiumefreddo.github.io)
 - [About me](https://about.me/yves.fiumefreddo)
+- [GitHub](https://github.com/yfiumefreddo)
 - [LinkedIn](https://www.linkedin.com/in/yves-fiumefreddo-0430441a/)
 - [Facebook](https://www.facebook.com/yves.fiumefreddo/)
 - [X](https://x.com/yfi1971)
