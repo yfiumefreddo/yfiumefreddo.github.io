@@ -29,6 +29,14 @@ const FeatureList = [
     ),
   },
   {
+    title: 'Location',
+    description: (
+      <>
+      Liège, Belgium
+      </>
+    ),
+  },
+  {
     title: 'Email',
     description: (
       <>
