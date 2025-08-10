@@ -85,6 +85,11 @@ const config = {
             position: 'left',
           },
           {
+            href: 'https://sourceforge.net/u/gammasoft71/profile/',
+            label: 'Projects',
+            position: 'left',
+          },
+          {
             href: 'mailto:y.fiumefreddo@gmail.com',
             label: 'Contact',
             position: 'left',
