@@ -6,7 +6,7 @@ const FeatureList = [
   {
     description: (
       <>
-      <a href="pictures/yves.png"><img src="pictures/yves_t.png" alt="yfiumefreddo"/></a>
+      <img src="pictures/yves_t.png" alt="yfiumefreddo"/>
       </>
     ),
   },
