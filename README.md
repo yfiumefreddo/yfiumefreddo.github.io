@@ -64,7 +64,7 @@ Key achievements:
 
 ### 1996 - 1996 | Network Engineer - Axis
 
-- Designed and configured custom network for client.
+- Designed and configured custom network for clients.
 
 ---
 
