@@ -29,14 +29,6 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Phone',
-    description: (
-      <>
-      +32 477 609120
-      </>
-    ),
-  },
-  {
     title: 'Email',
     description: (
       <>
