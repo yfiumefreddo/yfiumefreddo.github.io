@@ -97,11 +97,11 @@ const config = {
           {
             html: `
               <div style="display: flex; justify-content: center; gap: 1rem; align-items: center;">
-                <a href="https://yfiumefreddo.github.io"><img src="https://yfiumefreddo.github.io/static/pictures/yfi32.png" alt="xtd" /></a>
-                <a href="https://github.com/yfiumefreddo"><img src="https://gammasoft71.github.io/xtd/pictures/github32.png" alt="GitHub" /></a>
-                <a href="https://www.facebook.com/yves.fiumefreddo/"><img src="https://gammasoft71.github.io/xtd/pictures/facebook32.png" alt="Facebook" /></a>
-                <a href="https://twitter.com/yfi1971"><img src="https://gammasoft71.github.io/xtd/pictures/twitter32.png" alt="Twitter" /></a>
-                <a href="mailto:y.fiumefreddo@gmail.com"><img src="https://gammasoft71.github.io/xtd/pictures/mail32.png" alt="Mail" /></a>
+                <a href="https://yfiumefreddo.github.io"><img src="https://yfiumefreddo.github.io/pictures/yfi32.png" alt="yfi" /></a>
+                <a href="https://github.com/yfiumefreddo"><img src="https://yfiumefreddo.github.io/pictures/github32.png" alt="GitHub" /></a>
+                <a href="https://www.facebook.com/yves.fiumefreddo/"><img src="https://yfiumefreddo.github.io/pictures/facebook32.png" alt="Facebook" /></a>
+                <a href="https://twitter.com/yfi1971"><img src="https://yfiumefreddo.github.io/pictures/twitter32.png" alt="Twitter" /></a>
+                <a href="mailto:y.fiumefreddo@gmail.com"><img src="https://yfiumefreddo.github.io/pictures/mail32.png" alt="Mail" /></a>
               </div>
             `,
           },
