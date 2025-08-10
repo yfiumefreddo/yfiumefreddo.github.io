@@ -99,14 +99,16 @@ const config = {
               <div style="display: flex; justify-content: center; gap: 1rem; align-items: center;">
                 <a href="https://yfiumefreddo.github.io"><img src="https://yfiumefreddo.github.io/pictures/yfi32.png" alt="yfi" /></a>
                 <a href="https://github.com/yfiumefreddo"><img src="https://yfiumefreddo.github.io/pictures/github32.png" alt="GitHub" /></a>
+                <a href="https://sourceforge.net/u/gammasoft71/profile"><img src="https://yfiumefreddo.github.io/pictures/sourceforge32.png" alt="SourceForge" /></a>
                 <a href="https://www.facebook.com/yves.fiumefreddo/"><img src="https://yfiumefreddo.github.io/pictures/facebook32.png" alt="Facebook" /></a>
                 <a href="https://x.com/yfi1971"><img src="https://yfiumefreddo.github.io/pictures/x32.png" alt="Twitter" /></a>
+                <a href="https://discordapp.com/users/gammasoft#9288"><img src="https://yfiumefreddo.github.io/pictures/discord32.png" alt="Discord" /></a>
                 <a href="mailto:y.fiumefreddo@gmail.com"><img src="https://yfiumefreddo.github.io/pictures/mail32.png" alt="Mail" /></a>
               </div>
             `,
           },
         ],
-        copyright: `© ${new Date().getFullYear()} Yves Fiumefreddo.`,
+        copyright: `© ${new Date().getFullYear()} Gammasoft.`,
       },
       prism: {
         theme: lightCodeTheme,
