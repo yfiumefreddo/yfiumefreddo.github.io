@@ -17,10 +17,6 @@ Passionate about new technologies and computer science.
 
 [Gammasoft71](https://gammasoft71.github.io)
 ​
-## Phone
-
-+32 477 609120
-​
 ## Email
 
 y.fiumefreddo@gmail.com 
