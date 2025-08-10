@@ -17,9 +17,13 @@ Passionate about new technologies and computer science.
 
 [Gammasoft71](https://gammasoft71.github.io)
 ​
+## Mocation
+
+Liège, Belgium
+
 ## Email
 
-y.fiumefreddo@gmail.com 
+[y.fiumefreddo@gmail.com](mailto:y.fiumefreddo@gmail.com])
 ​
 ## Date of Birth
 
