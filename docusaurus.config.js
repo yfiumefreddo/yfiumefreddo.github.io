@@ -7,7 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/palenight');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Senior Software Architect | C++ Open Source Developer | Creator of the xtd Framework | Passionate about new technologies and computer science.',
+  title: 'Yves Fiumefreddo',
+  // tagline: 'Senior Software Architect | C++ Open Source Developer | Creator of the xtd Framework | Passionate about new technologies and computer science.',
   favicon: 'pictures/yfi.ico',
 
   // Set the production url of your site here

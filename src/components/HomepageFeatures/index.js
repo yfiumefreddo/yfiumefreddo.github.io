@@ -6,6 +6,10 @@ const FeatureList = [
   {
     description: (
       <>
+      <font size="5">Senior Software Architect | C++ Open Source Developer | Creator of the xtd Framework | Passionate about new technologies and computer science.</font>
+      <br/>
+      <br/>
+      <br/>
       <img src="pictures/yves_t.png" alt="yfiumefreddo"/>
       </>
     ),
