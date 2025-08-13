@@ -61,8 +61,3 @@ main-wrapper,
 .navbar__link > .iconExternalLink_node_modules-\@docusaurus-theme-classic-lib-next-theme-Navbar-Item-IconExternalLink-styles-module {
   display: none !important;
 }
-
-.hero .hero__title {
-  color: white !important;
-  text-shadow: 1px 1px 2px #0008;
-}
