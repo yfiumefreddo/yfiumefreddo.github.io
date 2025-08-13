@@ -95,6 +95,13 @@ const config = {
             label: 'Contact',
             position: 'left',
           },
+          {
+            href: 'https://gammasoft71.github.io/',
+            label: 'Gammasoft',
+            position: 'left',
+            target: '_self',
+            rel: null,
+          },
         ],
       },
       footer: {
