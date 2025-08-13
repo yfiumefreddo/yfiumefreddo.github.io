@@ -1,8 +1,9 @@
 # Yves Fiumefreddo
 
-**Senior Software Architect | C++ Open Source Developer | Creator of the xtd Framework**  
-Passionate about new technologies and computer science.
+**Senior Software Architect | C++ Open Source Developer | Creator of the xtd Framework | Passionate about new technologies and computer science.**
 
+![yfiumefreddo](https://yfiumefreddo.github.io/pictures/yves_t.png)
+​
 ---
 
 ## Highlights
